@@ -6,10 +6,7 @@ This is a Telegram URL Upload Bot!
 
 <b>Please send me any Direct download URL link, I can upload to telegram as File/Video</b>
 
-/help for more details..
-
-Support Group : @TroJanzSupport
-"""
+/help for more details.."""
 
     HELP_USER = """Hai I'am a URL Uploader bot..
     
