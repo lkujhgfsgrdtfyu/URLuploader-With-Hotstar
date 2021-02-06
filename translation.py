@@ -16,10 +16,7 @@ This is a Telegram URL Upload Bot!
    SVideo - Give File as video with Screenshots
    DFile  - Give File with Screenshots
    Video  - Give File as video without Screenshots
-   DFile  - Give File without Screenshots
-
-Support Group : @TroJanzSupport
-"""
+   DFile  - Give File without Screenshots"""
 
     FORMAT_SELECTION = """Select the desired format: <a href='{}'>file size might be approximate</a>
     
